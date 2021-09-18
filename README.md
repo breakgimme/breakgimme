@@ -1,9 +1,9 @@
 # Hello world!
 
 ## My hardware
-- Computer: Lenovo Y50-70 (GTX 860M, i7-4700HQ, 16GB RAM, No TPM) Windows 11
+- Computer: i5-11600k RTX 3070TI 32GB RAM Windows 11
 - Phone: Xiaomi Mi 10T (8, 128) Android 10, MIUI 12
-- 2nd computer: Apple PowerBook G4 (15", 1.5GHz, 1GB RAM) [Void Linux PPC](https://voidlinux-ppc.org/)
+- 2nd computer: Lenovo Y50-70 (GTX 860M, i7-4700HQ, 16GB RAM) Windows 10
 - Backup phone: Huawei P10 Lite (3, 32) Android 9, Lineage OS 17
 ## Donate
 - Doge: DAMogusCFjCeQcZCasu1QC4sxwPrwZt1kh
